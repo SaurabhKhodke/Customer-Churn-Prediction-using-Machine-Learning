@@ -120,8 +120,6 @@ The following visualizations are available in the `assets/` folder:
 - **Confusion Matrix**  
   ![Confusion Matrix](assets/confusion_matrix.png)
 
-- **Precision–Recall Curve**  
-  ![Precision Recall Curve](assets/precision_recall_curve.png)
 
 ---
 
