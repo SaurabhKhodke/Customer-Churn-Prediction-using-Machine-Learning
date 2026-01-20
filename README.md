@@ -93,6 +93,8 @@ All models were trained with **class imbalance handling enabled**.
 | XGBoost | 0.7771 | **0.5630** | 0.7166 | 0.6306 | 0.8431 |
 
 🏆 **Best Model:** Random Forest (based on F1-score and ROC-AUC)
+- **Model Comparison**  
+  ![Churn Distribution](assets/model_comparison.png)
 
 ---
 
